@@ -284,7 +284,14 @@ textarea {
     width:70%;
     margin: 0 auto;
 }
-
+.loka {
+    width:200px;
+    height:200px;
+    background-image: url('../img/loka.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #efefef;
+}
 h1 {
 
 }
@@ -294,4 +301,12 @@ ul {
 ul li {
     display:inline;
     padding:0 10px 0 0;
+}
+
+a {
+    text-decoration: none;
+    padding: 0 0 7px 0;
+}
+a:hover {
+    border-bottom: 1px solid;
 }
