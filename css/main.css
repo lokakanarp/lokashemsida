@@ -280,3 +280,9 @@ textarea {
         page-break-after: avoid;
     }
 }
+ul {
+    list-style: none;
+}
+ul li {
+    display:inline;
+}
