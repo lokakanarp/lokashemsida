@@ -280,9 +280,18 @@ textarea {
         page-break-after: avoid;
     }
 }
+.wrapper {
+    width:70%;
+    margin: 0 auto;
+}
+
+h1 {
+
+}
 ul {
     list-style: none;
 }
 ul li {
     display:inline;
+    padding:0 10px 0 0;
 }
